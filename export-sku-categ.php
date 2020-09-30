@@ -1,3 +1,4 @@
+//Developed by João Marcos -> https://github.com/joaomarcosaf/
 <?php
 // Exportação de produtos ativos e suas categorias
 require_once 'app/Mage.php';
